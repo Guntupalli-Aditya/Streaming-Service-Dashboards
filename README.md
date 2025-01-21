@@ -16,8 +16,15 @@ Power BI : Used for building interactive visualizations to present streaming dat
 # Usage
 These dashboards can be used by analysts, entertainment industry professionals, and streaming enthusiasts to understand the content strategy of each platform, observe viewer trends, and gain insights into the relative popularity and quality of movies versus TV shows.
 
-# Dashboards
+# Dahboards Links
+1) Netflix:- https://app.powerbi.com/groups/me/reports/d939f7a9-fac7-4016-adb4-a1bd37149d52/5b728e8129e97d80b9a0?ctid=ff335ba2-bb68-489a-bbdd-f49ab4319838&experience=power-bi
+2) Prime Video:- https://app.powerbi.com/groups/me/reports/8f33c807-d1f1-4fae-9468-99def05d99d8/6d657dfbac009e160ced?experience=power-bi
+3) Disney +:- https://app.powerbi.com/groups/me/reports/ed0fb606-db4e-4184-8324-0be6d9a373e0/7ab6ea66c7ec41b5631d?experience=power-bi
+   
+# Dashboards Preview
 
 ![Screenshot 2024-11-07 193151](https://github.com/user-attachments/assets/620c18eb-6e68-480e-8727-92d50d8c29ec)
+
 ![Screenshot 2024-11-07 193046](https://github.com/user-attachments/assets/3576f026-ff7b-443c-9665-0219f148d1c1)
+
 ![Screenshot 2024-11-07 192934](https://github.com/user-attachments/assets/2774dede-d51a-443a-a28a-b10001aa9dc3)
